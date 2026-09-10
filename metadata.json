@@ -1,0 +1,6 @@
+{
+  "name": "Payment Failure Assistant",
+  "description": "Smart diagnostic tool to identify payment failure causes and provide step-by-step resolution across UPI, cards, and net banking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
